@@ -16,8 +16,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
-    <!-- Atom Settings -->
+    <!-- BeastROMs Settings -->
     <string name="atom_settings_title">Atom Settings</string>
-    <string name="quicksettings_title">Quick Settings</string>
 
 </resources>
