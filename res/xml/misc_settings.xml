@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
-     Copyright (C) 2019 Atom
+     Copyright (C) 2019 AtomOS
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -14,12 +14,9 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:settings="http://schemas.android.com/apk/res/com.android.settings"
+    android:title="@string/miscsettings_title" >
 
-    <!-- AtomOS Settings -->
-    <string name="atom_settings_title">Atom Settings</string>
-    <string name="lockscreensettings_title">Lockscreen Settings</string>
-    <string name="miscsettings_title">Additional Settings</string>
-
-
-</resources>
+</PreferenceScreen>
