@@ -21,8 +21,5 @@
     <string name="lockscreensettings_title">Lockscreen Settings</string>
     <string name="miscsettings_title">Additional Settings</string>
 
-    <!-- Three-fingers-swipe to screenshot -->
-    <string name="three_finger_gesture">Swipe to screenshot</string>
-    <string name="three_finger_gesture_summary">Swipe three fingers to take screenshot</string>
- 
+
 </resources>
