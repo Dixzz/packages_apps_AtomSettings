@@ -16,10 +16,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
-    <!-- AtomOS Settings -->
+    <!-- BeastROMs Settings -->
     <string name="atom_settings_title">Atom Settings</string>
-    <string name="lockscreensettings_title">Lockscreen Settings</string>
-    <string name="miscsettings_title">Additional Settings</string>
-
 
 </resources>
