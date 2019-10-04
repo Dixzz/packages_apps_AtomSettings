@@ -16,7 +16,11 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
-    <!-- BeastROMs Settings -->
-    <string name="atom_settings_title">Atom Settings</string>
+    <!-- AtomOS Settings -->
+    <string name="atom_settings_title">Quantizer Hub</string>
+
+    <!-- Three-fingers-swipe to screenshot --> 
+    <string name="three_finger_gesture">Swipe to screenshot</string> 
+    <string name="three_finger_gesture_summary ">Swipe three fingers to take screenshot</string>
 
 </resources>
