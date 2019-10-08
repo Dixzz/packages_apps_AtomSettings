@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
-     Copyright (C) 2019 BeastROMs
+     Copyright (C) 2019 Atom-OS
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -17,35 +17,16 @@
 <PreferenceScreen
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:settings="http://schemas.android.com/apk/res/com.android.settings"
-<<<<<<< HEAD:res/xml/atom_settings.xml
     android:title="@string/atom_settings_title" >
-=======
-    android:title="@string/beast_settings_title" >
 	
-        <!-- Lockscreen Settings -->
-        <PreferenceScreen
-            android:id="@+id/lockscreen_settings"
-            android:title="@string/lockscreensettings_title"
-            android:fragment="com.beast.settings.LockscreenSettings"
-            android:layout="@layout/preference_beast_lockscreensettings"
-            />
-	
-        <!-- Quick Settings -->
-        <PreferenceScreen
-            android:id="@+id/quick_settings"
-            android:title="@string/quicksettings_title"
-            android:fragment="com.beast.settings.QuickSettings"
-            android:layout="@layout/preference_beast_quicksettings"
-            />
 			
         <!-- Misc Settings -->
         <PreferenceScreen
             android:id="@+id/misc_settings"
             android:title="@string/miscsettings_title"
-            android:fragment="com.beast.settings.MiscSettings"
-            android:layout="@layout/preference_beast_miscsettings"
+            android:fragment="com.atom.settings.MiscSettings"
+            android:layout="@layout/preference_atom_miscsettings"
             />
->>>>>>> 2ff7701... BeastSettings: Add misc and lockscreen categories:res/xml/beast_settings.xml
 	
    <com.atom.settings.preference.SystemSettingSwitchPreference 
    android:key="three_finger_gesture"
